@@ -41,7 +41,7 @@ const Game: React.FC<GameProps> = () => {
             resetGameState();
           }}
         >
-          JUGAR OTRA VEZ
+          JUGAR OTRA VEZ...
         </button>
       ) : (
         <button
