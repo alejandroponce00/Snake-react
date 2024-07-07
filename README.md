@@ -21,7 +21,7 @@
 
 ## Demo
 
-Mira la demo en vivo [aquí](#) (reemplazar con el enlace de tu demo).
+Mira la demo en vivo [aquí]([#](https://snake-react-alpha.vercel.app/)) .
 
 ## Instalación
 
