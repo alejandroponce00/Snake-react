@@ -29,7 +29,7 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/snake-game-react.git
+    git clone [https://github.com/tu-usuario/snake-game-react.git](https://github.com/alejandroponce00/Snake-react.git)
     cd snake-game-react
     ```
 
@@ -70,7 +70,7 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 Si tienes alguna pregunta, no dudes en ponerte en contacto:
 
-- GitHub: [tu-usuario](https://github.com/tu-usuario)
+- GitHub: [tu-usuario](https://github.com/alejandroponce00)
 - Email: tu-email@ejemplo.com
 
 Empuja a la rama (git push origin feature/nombre-de-tu-funcionalidad).
